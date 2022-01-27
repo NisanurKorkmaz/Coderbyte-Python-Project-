@@ -26,7 +26,6 @@ def TwoSum(arr):
     
 
 
-  
-
+ 
 # keep this function call here
 print TwoSum(raw_input())
